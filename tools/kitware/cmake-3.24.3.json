@@ -24,7 +24,7 @@
     "windows and x86": {
       "install": {
         "unzip": "https://github.com/Kitware/CMake/releases/download/v3.24.3/cmake-3.24.3-windows-i386.zip",
-        "sha256": "650026534e66dabe0ed6be3422e86fabce5fa86d43927171ea8b8dfd0877fc9d",
+        "sha256": "f5a1a1314e539f04a5466a8b5e11d831507a9c2fc233f6dc976b6e304bd1e2ae",
         "strip": 1
       }
     },
@@ -43,14 +43,14 @@
     "osx": {
       "install": {
         "untar": "https://github.com/Kitware/CMake/releases/download/v3.24.3/cmake-3.24.3-macos-universal.tar.gz",
-        "sha256": "44143d47fdcc7fc3042576c6a8b661e3b65a18143666f74d6e8d93ca3ab5cd95",
+        "sha256": "00d6911b886f394b3b7fec8b1fa010112c98251bb8d95cedecaacc4fe7961a9a",
         "strip": 3
       }
     },
     "linux and x64": {
       "install": {
         "untar": "https://github.com/Kitware/CMake/releases/download/v3.24.3/cmake-3.24.3-linux-x86_64.tar.gz",
-        "sha256": "B8C141BD7A6D335600AB0A8A35E75AF79F95B837F736456B5532F4D717F20A09",
+        "sha256": "8e3d048c7fb26767b00db6a55025aa380d91f45d8f3749e9b9961ef25744b102",
         "strip": 1
       }
     },
