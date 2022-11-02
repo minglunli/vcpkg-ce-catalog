@@ -43,7 +43,7 @@
     "osx": {
       "install": {
         "untar": "https://github.com/Kitware/CMake/releases/download/v3.24.3/cmake-3.24.3-macos-universal.tar.gz",
-        "sha256": "00d6911b886f394b3b7fec8b1fa010112c98251bb8d95cedecaacc4fe7961a9a",
+        "sha256": "f1658e4a9259adc74225be0dcd514b8d9bae3314e7f13dee03b6a25833ab7823",
         "strip": 3
       }
     },
@@ -57,7 +57,7 @@
     "linux and arm64": {
       "install": {
         "untar": "https://github.com/Kitware/CMake/releases/download/v3.24.3/cmake-3.24.3-linux-aarch64.tar.gz",
-        "sha256": "2761a222c14a15b9bdf1bdb4a17c10806757b7ed3bc26a84523f042ec212b76c",
+        "sha256": "00d6911b886f394b3b7fec8b1fa010112c98251bb8d95cedecaacc4fe7961a9a",
         "strip": 1
       }
     },
